@@ -1,6 +1,6 @@
 # BobFlow: Ticket-to-Code Accelerator
 
-![BobFlow Banner](https://via.placeholder.com/1200x600?text=BobFlow:+Turn+Idea+into+Impact+Faster)
+
 
 > **Hackathon Theme:** "Turn idea into impact faster"  
 > **Built with:** React 19, TypeScript, Vite, Tailwind CSS, and IBM Bob
