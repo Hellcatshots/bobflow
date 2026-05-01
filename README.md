@@ -169,13 +169,6 @@ Interactive checklist dashboard to track hackathon submission requirements:
 - Document Bob usage in README
 - Link generated assets to codebase
 
-### 🎬 Demo Script Generator
-Pre-written 3-minute video pitch script with:
-- Structured timeline (0:00 - 3:00)
-- Speaking notes for each section
-- Copy-to-clipboard functionality
-- Hackathon-optimized messaging
-
 ---
 
 ## 🚀 Local Setup Instructions
@@ -238,43 +231,6 @@ npm run test -- --coverage
 - ✅ Package save/retrieve operations
 - ✅ Tracker state persistence
 - ✅ Component rendering (future expansion)
-
----
-
-## 🎥 Demo Flow
-
-### For 3-Minute Video Pitch
-
-**0:00 - 0:30 | The Problem**
-- Show a complex, vague Jira ticket
-- Explain the "blank slate" problem
-- Introduce BobFlow as the solution
-
-**0:30 - 1:30 | Live Walkthrough**
-- Navigate to BobFlow landing page
-- Fill out the ticket form with example data
-- Click "Generate Implementation Package"
-- Show the 1.5-second generation
-- Navigate through the 9 tabs (Summary, Plan, API Contract, etc.)
-
-**1:30 - 2:15 | IBM Bob Integration**
-- Highlight the "Bob Usage Plan" tab
-- Show the Bob Evidence Tracker
-- Briefly display the `bob_sessions/` folder in the repo
-- Explain how Bob was used to build BobFlow itself
-
-**2:15 - 3:00 | Impact & Conclusion**
-- Compare before/after: hours → seconds
-- Emphasize "Turn idea into impact faster"
-- Show the saved packages feature
-- Thank the judges
-
-### Live Demo Tips
-1. Use the pre-filled example data (Password Reset Flow)
-2. Have the landing page open in one tab, app in another
-3. Practice the 9-tab navigation flow
-4. Keep the demo script open for reference
-5. Show the GitHub repo structure at the end
 
 ---
 
